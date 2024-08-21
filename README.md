@@ -3,10 +3,6 @@
 <h3> 
 I'm Lorran and currently I'm a Computer Engineering student at Insper.
 <br>
-<br>
-
-The use of any of these repositories is allowed and free for everyone. 
-<br>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/lorranlopes">
